@@ -162,7 +162,7 @@ SSH-2.0-OpenSSH_8.7
 
 Now connection has been established.
 Try this from the instance in the primary account to the instances in the secondary account and vice versa. This shows successfull connectivity of the vpcs using transit gateway, aws resource access manager.
-
+https://docs.aws.amazon.com/prescriptive-guidance/latest/integrate-third-party-services/architecture-3.html
   
  	
 
